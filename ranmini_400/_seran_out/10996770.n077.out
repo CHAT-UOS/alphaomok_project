@@ -1,0 +1,5 @@
+pygame 2.5.2 (SDL 2.28.2, Python 3.7.16)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+cuda: True
+1507354
+load model: 231126_5400_75223_step_model.pickle
